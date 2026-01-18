@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Charlie's Github Stats](https://github-readme-stats-six-gilt-21.vercel.app/api?username=nix-life&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&theme=shadow_blue)<br>
+![Charlie's Github Stats](https://github-readme-stats-six-gilt-21.vercel.app/api?username=nix-life&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&theme=gray_white)<br>
